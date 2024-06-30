@@ -1,0 +1,5 @@
+2024-06-27 09:57:02,822 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-06-27 10:14:55,476 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-06-27 10:14:55,788 - zillow_eda - INFO - California Rental Data loaded
+2024-06-27 10:14:56,726 - zillow_eda - INFO - California Rental Data visualized
+2024-06-27 10:14:59,176 - zillow_eda - INFO - training set 1 correlation heatmap plotted
