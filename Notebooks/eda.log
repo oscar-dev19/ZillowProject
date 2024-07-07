@@ -3,3 +3,118 @@
 2024-06-27 10:14:55,788 - zillow_eda - INFO - California Rental Data loaded
 2024-06-27 10:14:56,726 - zillow_eda - INFO - California Rental Data visualized
 2024-06-27 10:14:59,176 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 09:43:22,334 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 09:43:23,172 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 09:43:24,276 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 09:44:11,112 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 09:44:11,494 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 09:44:12,462 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:31:51,154 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:31:51,845 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:31:53,255 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:31:56,680 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:31:56,714 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:35:31,259 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:35:31,259 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:35:31,295 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:35:31,295 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:35:31,659 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:35:31,659 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:35:34,819 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:35:34,819 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:35:34,847 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:35:34,847 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:43:41,850 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:43:41,850 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:43:41,850 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:43:41,887 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:43:41,887 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:43:41,887 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:43:42,291 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:43:42,291 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:43:42,291 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:43:45,418 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:43:45,418 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:43:45,418 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:43:45,446 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:43:45,446 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:43:45,446 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 12:58:37,045 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 12:58:37,598 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 12:58:39,018 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 12:59:16,441 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 12:59:22,533 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 13:27:49,600 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 13:27:49,600 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-03 13:27:49,710 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 13:27:49,710 - zillow_eda - INFO - California Rental Data loaded
+2024-07-03 13:27:50,112 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 13:27:50,112 - zillow_eda - INFO - California Rental Data visualized
+2024-07-03 13:27:53,383 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 13:27:53,383 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-03 13:27:53,410 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-03 13:27:53,410 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-05 14:31:02,100 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-05 14:31:03,034 - zillow_eda - INFO - California Rental Data loaded
+2024-07-05 14:31:04,151 - zillow_eda - INFO - California Rental Data visualized
+2024-07-05 14:31:42,676 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-05 14:32:28,413 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-05 14:33:26,336 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-06 18:00:40,480 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:00:40,588 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:00:41,614 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:00:46,533 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:00:46,800 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-06 18:03:15,508 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:03:15,508 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:03:15,546 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:03:15,546 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:03:15,952 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:03:15,952 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:03:19,278 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:03:19,278 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:03:19,314 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-06 18:03:19,314 - zillow_eda - INFO - training set 1 columns dropped
+2024-07-06 18:09:21,531 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:09:21,531 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:10:02,937 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:10:02,937 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:14:16,849 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:14:16,849 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:14:16,849 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 18:14:16,883 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:14:16,883 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:14:16,883 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 18:14:17,297 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:14:17,297 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:14:17,297 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 18:14:20,563 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:14:20,563 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 18:14:20,563 - zillow_eda - INFO - training set 1 correlation heatmap plotted
+2024-07-06 19:22:34,295 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:22:34,295 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:22:34,295 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:22:34,295 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:22:34,330 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:22:34,330 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:22:34,330 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:22:34,330 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:22:34,682 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:22:34,682 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:22:34,682 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:22:34,682 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:37:12,945 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:37:12,945 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:37:12,945 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:37:12,945 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:37:12,945 - zillow_eda - INFO - Logger for Zillow EDA initialized
+2024-07-06 19:37:12,992 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:37:12,992 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:37:12,992 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:37:12,992 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:37:12,992 - zillow_eda - INFO - California Rental Data loaded
+2024-07-06 19:37:13,421 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:37:13,421 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:37:13,421 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:37:13,421 - zillow_eda - INFO - California Rental Data visualized
+2024-07-06 19:37:13,421 - zillow_eda - INFO - California Rental Data visualized
