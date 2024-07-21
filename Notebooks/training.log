@@ -824,3 +824,362 @@
 2024-07-14 08:28:10,312 - __main__ - INFO - Model metrics calculation completed
 2024-07-14 08:28:10,312 - __main__ - INFO - Model metrics calculation completed
 2024-07-14 08:28:10,312 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:01,553 - __main__ - INFO - Training logger initialized
+2024-07-14 08:37:02,224 - __main__ - INFO - Linear regression model training completed
+2024-07-14 08:37:02,224 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:02,224 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:02,289 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:02,292 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:02,524 - __main__ - INFO - Linear regression model training completed
+2024-07-14 08:37:02,524 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:02,524 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:02,551 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:02,552 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:02,840 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:02,840 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:02,858 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:02,869 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:04,073 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:04,073 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:04,092 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:04,094 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:04,096 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:04,096 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:04,098 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:04,099 - __main__ - INFO - Model metrics calculation completed
+2024-07-14 08:37:04,101 - __main__ - INFO - Starting model metrics calculation
+2024-07-14 08:37:04,101 - __main__ - INFO - Making predictions on the test set
+2024-07-14 08:37:04,105 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-14 08:37:04,106 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:07:02,303 - __main__ - INFO - Training logger initialized
+2024-07-15 08:07:42,223 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:07:42,224 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:07:42,224 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:07:42,254 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:07:42,255 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:07:53,088 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:07:53,089 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:07:53,089 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:07:53,117 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:07:53,120 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:10:57,159 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:10:57,159 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:10:57,159 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:10:57,176 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:10:57,177 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:11:03,482 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:11:03,482 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:11:03,482 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:11:03,503 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:11:03,504 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:11:12,343 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:11:12,343 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:11:12,343 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:11:12,360 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:11:12,367 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:11:20,432 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:11:20,432 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:11:20,432 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:11:20,458 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:11:20,461 - __main__ - INFO - Model metrics calculation completed
+2024-07-15 08:15:27,425 - __main__ - INFO - Training logger initialized
+2024-07-15 08:15:27,425 - __main__ - INFO - Training logger initialized
+2024-07-15 08:15:27,722 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:15:27,722 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:15:27,722 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:27,722 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:27,723 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:27,723 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:27,745 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:27,745 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:27,747 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:27,747 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:28,021 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:15:28,021 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:15:28,021 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:28,021 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:28,021 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:28,021 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:28,036 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:28,036 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:28,072 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:28,072 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:28,327 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:28,327 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:28,329 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:28,329 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:28,386 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:28,386 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:28,387 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:28,387 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,497 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,497 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,497 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,497 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,501 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,501 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,513 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,513 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,513 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,513 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,513 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,513 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,529 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,529 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,536 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,536 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,537 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,537 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:15:29,537 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,537 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:15:29,539 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,539 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:15:29,540 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:15:29,540 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:16:33,485 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:16:33,485 - __main__ - INFO - Linear regression model training completed
+2024-07-15 08:16:33,486 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:16:33,486 - __main__ - INFO - Starting model metrics calculation
+2024-07-15 08:16:33,486 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:16:33,486 - __main__ - INFO - Making predictions on the test set
+2024-07-15 08:16:33,515 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:16:33,515 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-15 08:16:33,516 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-15 08:16:33,516 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:17,878 - __main__ - INFO - Training logger initialized
+2024-07-20 19:04:20,759 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:04:20,760 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:20,760 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:20,791 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:20,794 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:21,051 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:04:21,052 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:21,052 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:21,066 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:21,069 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:21,496 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:21,497 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:21,508 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:21,510 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:22,891 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:22,891 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:22,893 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:22,897 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:22,898 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:22,898 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:22,899 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:22,900 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:04:22,901 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:04:22,901 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:04:22,904 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:04:22,905 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:07:57,368 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:07:57,369 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:07:57,372 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:07:57,394 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:07:57,397 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:10:07,992 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:10:07,993 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:10:07,993 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:10:08,029 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:10:08,032 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:13:56,690 - __main__ - INFO - Starting model metrics calculation
+2024-07-20 19:13:56,690 - __main__ - INFO - Making predictions on the test set
+2024-07-20 19:13:56,693 - __main__ - INFO - Calculating metrics on encoded data
+2024-07-20 19:13:56,694 - __main__ - ERROR - Error calculating model metrics: continuous is not supported
+2024-07-20 19:16:31,406 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:18:47,230 - __main__ - INFO - Training logger initialized
+2024-07-20 19:18:48,531 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:19:16,592 - __main__ - INFO - Training logger initialized
+2024-07-20 19:19:16,592 - __main__ - INFO - Training logger initialized
+2024-07-20 19:19:16,737 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:19:16,737 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:19:17,029 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:19:17,029 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:27:49,298 - __main__ - INFO - Training logger initialized
+2024-07-20 19:27:50,952 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:28:19,838 - __main__ - INFO - Training logger initialized
+2024-07-20 19:28:19,838 - __main__ - INFO - Training logger initialized
+2024-07-20 19:28:19,983 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:28:19,983 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:28:20,302 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:28:20,302 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:31:17,084 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:31:17,084 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:31:17,923 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:31:17,923 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:47:18,482 - __main__ - INFO - Training logger initialized
+2024-07-20 19:47:18,482 - __main__ - INFO - Training logger initialized
+2024-07-20 19:47:18,482 - __main__ - INFO - Training logger initialized
+2024-07-20 19:48:46,699 - __main__ - INFO - Training logger initialized
+2024-07-20 19:48:46,699 - __main__ - INFO - Training logger initialized
+2024-07-20 19:48:46,699 - __main__ - INFO - Training logger initialized
+2024-07-20 19:48:46,699 - __main__ - INFO - Training logger initialized
+2024-07-20 19:49:51,785 - __main__ - INFO - Training logger initialized
+2024-07-20 19:49:51,785 - __main__ - INFO - Training logger initialized
+2024-07-20 19:49:51,785 - __main__ - INFO - Training logger initialized
+2024-07-20 19:49:51,785 - __main__ - INFO - Training logger initialized
+2024-07-20 19:49:51,785 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:51:49,132 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:15,361 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:27,088 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:27,088 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:36,316 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:36,316 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:36,316 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:37,579 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:37,579 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:37,579 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:37,579 - __main__ - INFO - Training logger initialized
+2024-07-20 19:52:44,455 - __main__ - INFO - Training logger initialized
+2024-07-20 19:53:10,912 - __main__ - INFO - Training logger initialized
+2024-07-20 19:53:10,912 - __main__ - INFO - Training logger initialized
+2024-07-20 19:56:53,072 - __main__ - INFO - Training logger initialized
+2024-07-20 19:56:53,072 - __main__ - INFO - Training logger initialized
+2024-07-20 19:56:53,072 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:11,854 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:11,854 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:11,854 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:11,854 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:57,901 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:57,901 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:57,901 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:57,901 - __main__ - INFO - Training logger initialized
+2024-07-20 19:57:57,901 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:01,479 - __main__ - INFO - Training logger initialized
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 19:58:22,894 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:27:01,830 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,553 - __main__ - INFO - Training logger initialized
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 20:31:13,746 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:53,908 - __main__ - INFO - Training logger initialized
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 21:14:54,090 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:09,803 - __main__ - INFO - Training logger initialized
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:06:10,033 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:16,830 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:17,060 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,547 - __main__ - INFO - Training logger initialized
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:07:43,961 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,277 - __main__ - INFO - Training logger initialized
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
+2024-07-20 22:15:34,680 - __main__ - INFO - Linear regression model training completed
